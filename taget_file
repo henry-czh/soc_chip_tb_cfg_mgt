@@ -1,0 +1,10 @@
++++Instance+++
+chip_tb
+|---top
+|   |---cluster [D]
+|   |   |---core0 [D]
+|   |   |---core1 [D]
+|   |   |---l2 [D]
+|   |---noc [D]
+|   |---lmu [D]
+|   |   |---mcu [D]
